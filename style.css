@@ -219,6 +219,12 @@ input[type=text]:focus {
 } */
 
 
+
+
+
+
+
+
 /* Disappearing Text */
 
 /* body{
@@ -250,7 +256,7 @@ input[type=text]:focus {
 
 
 /* JS Carousel */
-/* 
+
 body{
     min-height: 100vh;
     display: flex;
@@ -306,10 +312,15 @@ body{
 .btn:hover {
     background: green;
     color: white;
-} */
+}
+
+
+
+
+
 
 /* Calculator */
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -371,4 +382,109 @@ button:hover{
 
 .btn-clear {
     background: red;
+} */
+
+
+
+
+
+
+
+/* body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
 }
+
+#clock {
+    font-size: 5rem;
+    color: #32cd32;
+} */
+
+
+
+
+/* Type Writer */
+/* body {
+    height: 100vh;
+    background: #333;
+    color: #ccc;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 03rem;
+}
+
+h1, h2 {
+    font-weight: 200;
+    margin: 0.4rem;
+}
+
+h1{
+    font-size: 3.5rem;
+}
+
+h2{
+    font-size: 2rem;
+    color: #aaa;
+}
+
+@media(min-width: 1200px) {
+    h1 {
+        font-size: 5rem;
+    }
+}
+
+@media(max-width: 767px) {
+    .container {
+        padding: 0 1rem;
+    }
+
+    h1 {
+        font-size: 5rem;
+    }
+}
+
+@media(max-width: 564px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.5;
+    }
+} */
+
+
+
+/* .img {
+    height: 100vh;
+    background-image: url('img/bgimg-3.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    box-shadow: 5px 10px black;
+    position: relative;
+}
+
+#demo{
+    width: 30%;
+    transform: translateX(20px);
+    transition: 0.5s all ease-in-out;
+} */
+
+/* #demo {
+    opacity: 1;
+    transform: translateY(0px)
+}  */
+/* #myDIV {
+    display: none;
+    color: blue;
+} */
