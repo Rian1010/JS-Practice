@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "d3Test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS-Practice"
+	}
+}
